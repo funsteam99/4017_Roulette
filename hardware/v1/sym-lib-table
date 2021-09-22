@@ -1,0 +1,3 @@
+(sym_lib_table
+  (lib (name osc_bjt_4017-rescue)(type Legacy)(uri ${KIPRJMOD}/osc_bjt_4017-rescue.lib)(options "")(descr ""))
+)
